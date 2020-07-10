@@ -2,4 +2,6 @@
 
 save
 -------------------------------
-:doc_source: paddle.fluid.dygraph.jit.save
+
+..  autofunction:: paddle.fluid.dygraph.jit.save
+    :noindex:

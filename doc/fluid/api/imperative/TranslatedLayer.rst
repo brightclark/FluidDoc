@@ -2,4 +2,7 @@
 
 TranslatedLayer
 -------------------------------
-:doc_source: paddle.fluid.dygraph.io.TranslatedLayer
+
+..  autoclass:: paddle.fluid.dygraph.TranslatedLayer
+    :members:
+    :noindex:

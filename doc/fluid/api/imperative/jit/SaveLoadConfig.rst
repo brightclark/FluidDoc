@@ -2,4 +2,7 @@
 
 SaveLoadConfig
 -------------------------------
-:doc_source: paddle.fluid.dygraph.jit.SaveLoadConfig
+
+..  autoclass:: paddle.fluid.dygraph.jit.SaveLoadConfig
+    :members:
+    :noindex:

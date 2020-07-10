@@ -2,4 +2,6 @@
 
 load
 -------------------------------
-:doc_source: paddle.fluid.dygraph.jit.load
+
+..  autofunction:: paddle.fluid.dygraph.jit.load
+    :noindex:
